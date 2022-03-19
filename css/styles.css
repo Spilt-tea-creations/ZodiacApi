@@ -1,0 +1,97 @@
+
+   
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+  }
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+    line-height: 1.5em;
+}
+.form {
+    padding: 2rem 0;
+    color: black;
+    
+
+}
+.signSelector {
+    padding: 1rem;
+    font-size: 1.25em;
+    background-color: #fefefe;
+}
+#signSubmit {
+    padding: 1rem;
+    font-size: 1.25em;
+    background-color: #ABB6C2;
+    color: #fefefe;
+}
+#signSubmit:hover {
+    background-color: #000;
+    color: #fefefe;
+}
+.zodiacSign-img {
+    width: 80%;
+    height: auto;
+    border-radius: 100px;
+}
+.fetchContainer {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+.zodiac-box{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: #ABB6C2;
+    color: rgba(0,0,0,.9);
+    border-radius: 3px;
+}
+.zodiac-box-container  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.zodiac-box-item {
+    text-align: center;
+    width: 100%;
+}
+.zodiac-box-text {
+    background-color: #fefefe;
+    border-radius: 3px;
+    margin-top: 1rem;
+}
+.zodiac-box-header{
+    border: 1px solid rgba(0,0,0,.9) ;
+    margin: 1rem;
+}
+.signTraits-container {
+    display: flex;
+    flex-direction: column;
+}
+.signTraitType {
+    padding: 0.5rem;
+    text-align: center;
+}
+.pos {
+    color: lightgreen;
+    padding-right: 0.5em;
+    margin-right: 0.5em;
+}
+.neg {
+    color: lightcoral;
+    padding-right: 0.5em;
+    margin-right: 0.5em;
+}
