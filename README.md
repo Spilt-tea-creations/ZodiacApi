@@ -1,6 +1,5 @@
 # ZodiacApi
 Hosting Link: https://spilt-tea-creations.github.io/ZodiacApi/
-Code Link: https://github.com/Spilt-tea-creations/ZodiacApi
 
 ## Used assets (non-commercial)
 
@@ -9,13 +8,11 @@ Code Link: https://github.com/Spilt-tea-creations/ZodiacApi
 - zodiac information interpreted from: (https://askastrology.com/zodiac-signs/)
 
 Zodiac User Stories: 
-![Screenshot](assets/wireframes_user-stories/Zodiac_User_Stories.png)
 
 1.	As a psychic, I want to find the spiritual answers as to why my clients may feel and react a certain way, so I will give logical reasons in my reading explanations.
 2.	As a Buddhist yogi, I want to learn more about the ayurvedic culture, so that I can progress in my path to enlightenment.
 
 Wireframes:
-![Screenshot](assets/wireframes_user-stories/Zodiac_App%20_Flowchart.drawio.png)
 ![Screenshot](assets/wireframes_user-stories/Zodiac_Wireframe.drawio.png)
 
 Megan Stachnick
